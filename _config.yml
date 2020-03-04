@@ -3,9 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            Hojun's Blog
+tagline:          '이것저것 정리하는 블로그'
+description:      이것저것 정리하는 블로그
+#description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://ghwns9652.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,8 +16,8 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Hojun Kim'
+  url:            https://github.com/ghwns9652
 
 paginate:         5
 # paginate_path:    '/page:num'
